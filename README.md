@@ -1,6 +1,6 @@
 # beszel-agent
 
-Basic beszel agent docker compose file
+Basic beszel agent with Nvidia support docker compose file
 
 ## .env file example
 
